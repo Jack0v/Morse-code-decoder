@@ -5,6 +5,7 @@ Project "MorzeLetter"	is Morse code decoder, letters A, E, F, H, I, S, U only.
 Project "Morze"			is Morse code decoder, digits and letters A, E, F, H, I, S, U.
 
 Source video: https://youtu.be/wNrg9gkYU_I
+
 	!!!WARNING!!!
 	This projects was tested for EP4CE6E22C8 by QurtusII 9.1SP2.
 	Before compiling, specify the pins of the your FPGA. Example:
@@ -12,15 +13,16 @@ Source video: https://youtu.be/wNrg9gkYU_I
 
 ---------------------------------
 
-Автор: Jack0v
-Проект "MorzeDigit" 	- Декодер кодов азбуки Морзе, только цифры.
-Проект "MorzeLetter"	- Декодер кодов азбуки Морзе, только буквы A, E, F, H, I, S, U.
-Проект "Morze"			- Декодер кодов азбуки Морзе, цифры и буквы A, E, F, H, I, S, U.
+ГЂГўГІГ®Г°: Jack0v
+ГЏГ°Г®ГҐГЄГІ "MorzeDigit" 	- Г„ГҐГЄГ®Г¤ГҐГ° ГЄГ®Г¤Г®Гў Г Г§ГЎГіГЄГЁ ГЊГ®Г°Г§ГҐ, ГІГ®Г«ГјГЄГ® Г¶ГЁГґГ°Г».
+ГЏГ°Г®ГҐГЄГІ "MorzeLetter"	- Г„ГҐГЄГ®Г¤ГҐГ° ГЄГ®Г¤Г®Гў Г Г§ГЎГіГЄГЁ ГЊГ®Г°Г§ГҐ, ГІГ®Г«ГјГЄГ® ГЎГіГЄГўГ» A, E, F, H, I, S, U.
+ГЏГ°Г®ГҐГЄГІ "Morze"			- Г„ГҐГЄГ®Г¤ГҐГ° ГЄГ®Г¤Г®Гў Г Г§ГЎГіГЄГЁ ГЊГ®Г°Г§ГҐ, Г¶ГЁГґГ°Г» ГЁ ГЎГіГЄГўГ» A, E, F, H, I, S, U.
 
-Исходное видео: https://youtu.be/wNrg9gkYU_I
-	!!!ВНИМАНИЕ!!!
-	Эти проекты тестировались под EP4CE6E22C8 в QurtusII 9.1SP2.
-	Перед компиляцией укажи выводы своей ПЛИС. Пример:
+Г€Г±ГµГ®Г¤Г­Г®ГҐ ГўГЁГ¤ГҐГ®: https://youtu.be/wNrg9gkYU_I
+
+	!!!Г‚ГЌГ€ГЊГЂГЌГ€Г…!!!
+	ГќГІГЁ ГЇГ°Г®ГҐГЄГІГ» ГІГҐГ±ГІГЁГ°Г®ГўГ Г«ГЁГ±Гј ГЇГ®Г¤ EP4CE6E22C8 Гў QurtusII 9.1SP2.
+	ГЏГҐГ°ГҐГ¤ ГЄГ®Г¬ГЇГЁГ«ГїГ¶ГЁГҐГ© ГіГЄГ Г¦ГЁ ГўГ»ГўГ®Г¤Г» Г±ГўГ®ГҐГ© ГЏГ‹Г€Г‘. ГЏГ°ГЁГ¬ГҐГ°:
 	//(*chip_pin = "11"*) input aM
 
 (C) Jack0v, 2020
