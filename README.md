@@ -1,9 +1,6 @@
 Verilog module of Morse code decoder
-
 Autor: Jack0v
-
 Project "MorzeDigit" 	is Morse code decoder, digits only.
-
 Project "MorzeLetter"	is Morse code decoder, letters A, E, F, H, I, S, U only.
 
 Project "Morze"			is Morse code decoder, digits and letters A, E, F, H, I, S, U.
