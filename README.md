@@ -1,4 +1,5 @@
 Verilog module of Morse code decoder
+
 Autor: Jack0v
 
 Project "MorzeDigit" 	is Morse code decoder, digits only.
